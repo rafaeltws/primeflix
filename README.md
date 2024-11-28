@@ -28,16 +28,6 @@ Link: https://plrimeflixtws.netlify.app/
 - Sistema de Rotas
 - Sistema de salvar o Filme na lista
 
-
-## Contribuindo
-
-Contribuições são sempre bem-vindas!
-
-Veja `contribuindo.md` para saber como começar.
-
-Por favor, siga o `código de conduta` desse projeto.
-
-
 ## Rotas
 
 Todas as totas do projeto
