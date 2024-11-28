@@ -16,13 +16,6 @@ para instalar utilize o comando
 
 - [@rafatws](https://www.github.com/rafatws)
 
-
-## Demonstração
-
-Link: https://plrimeflixtws.netlify.app/
-
-
-
 ## Funcionalidades
 
 - Sistema de Rotas
